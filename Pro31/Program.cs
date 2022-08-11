@@ -6,7 +6,8 @@ namespace Pro31
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worl");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Today is Thursday");
         }
     }
 }
